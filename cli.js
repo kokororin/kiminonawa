@@ -37,7 +37,7 @@ function searchIllust(keyword) {
   keyword = encodeURIComponent(keyword);
   return got('https://public-api.secure.pixiv.net/v1/search/works.json?image_sizes=px_128x128%2Cpx_480mw%2Clarge&period=all&include_stats=true&page=1&order=desc&q='
     + keyword +
-    '&sort=date&mode=tag&include_sanity_level=true&per_page=100', {
+    '&sort=popular&mode=tag&include_sanity_level=true&per_page=20', {
       json: true,
       headers: {
         Host: 'public-api.secure.pixiv.net',
