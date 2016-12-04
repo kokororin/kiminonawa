@@ -1,0 +1,30 @@
+{
+  "name": "kiminonaha",
+  "version": "1.0.0",
+  "description": "君の名は。",
+  "bin": {
+    "kiminonaha": "./cli.js",
+    "君の名は。": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kokororin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokororin/kiminonaha.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/kokororin/kiminonaha/issues"
+  },
+  "homepage": "https://github.com/kokororin/kiminonaha#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "got": "^6.6.3",
+    "term-img": "^0.2.0"
+  }
+}
