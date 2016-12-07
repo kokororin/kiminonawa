@@ -1,5 +1,5 @@
 {
-  "name": "kiminonaha",
+  "name": "kiminonawa",
   "version": "1.0.0",
   "description": "君の名は。",
   "bin": {
@@ -13,15 +13,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kokororin/kiminonaha.git"
+    "url": "git+https://github.com/kokororin/kiminonawa.git"
   },
   "keywords": [
     "library"
   ],
   "bugs": {
-    "url": "https://github.com/kokororin/kiminonaha/issues"
+    "url": "https://github.com/kokororin/kiminonawa/issues"
   },
-  "homepage": "https://github.com/kokororin/kiminonaha#readme",
+  "homepage": "https://github.com/kokororin/kiminonawa#readme",
   "dependencies": {
     "co": "^4.6.0",
     "got": "^6.6.3",
