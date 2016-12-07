@@ -1,16 +1,16 @@
 # 君の名は。
 
-![](https://github.com/kokororin/kiminonaha/raw/master/demo.png)
+![](https://github.com/kokororin/kiminonawa/raw/master/demo.png)
 
 ## Install
 ```
-$ npm install -g kiminonaha
+$ npm install -g kiminonawa
 ```
 
 ## Usage
 ```
 $ 君の名は。
-$ kiminonaha
+$ kiminonawa
 ```
 
 ## License
